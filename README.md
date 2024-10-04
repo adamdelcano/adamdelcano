@@ -3,7 +3,7 @@
 - :hammer_and_wrench: I'm currently working on a build of my [own site](https://adamdelcano.github.io/)
 - :business_suit_levitating: If you want to check out my professional persona: [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="18">](https://www.linkedin.com/in/adam-del-cano/)
 - 📧 Or contact me via [email](mailto:adam.j.delcano@gmail.com)
-- 
+
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamdelcano&layout=compact&langs_count=10&theme=dark" alt="adamdelcano" />
